@@ -56,15 +56,20 @@ function scanStickers() {
       .map(f => {
         const fullPath = path.join(seriePath, f);
         const stats = fs.statSync(fullPath);
+        const id = `${serieName}/${f}`;
+        
+        // 保留已有标签
+        const existing = index.stickers.find(s => s.id === id);
+        
         return {
-          id: `${serieName}/${f}`,
+          id: id,
           name: path.basename(f, path.extname(f)).replace(/^\d+-/, ''),
           series: serieName,
           path: fullPath,
           relativePath: `${serieName}/${f}`,
           size: stats.size,
           modified: stats.mtime,
-          tags: []
+          tags: existing ? existing.tags : []
         };
       });
     
