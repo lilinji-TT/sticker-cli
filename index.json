@@ -5,64 +5,165 @@
       "id": "猥琐可爱萌/01-得意星星.jpg",
       "name": "得意星星",
       "series": "猥琐可爱萌",
-      "tags": ["得意", "满足", "开心", "被夸"],
-      "emotion": "positive"
+      "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/01-得意星星.jpg",
+      "relativePath": "猥琐可爱萌/01-得意星星.jpg",
+      "size": 4619,
+      "modified": "2026-03-22T12:52:28.644Z",
+      "tags": []
     },
     {
       "id": "猥琐可爱萌/02-呆萌发芽.jpg",
       "name": "呆萌发芽",
       "series": "猥琐可爱萌",
-      "tags": ["呆萌", "无辜", "装傻", "卖萌"],
-      "emotion": "cute"
+      "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/02-呆萌发芽.jpg",
+      "relativePath": "猥琐可爱萌/02-呆萌发芽.jpg",
+      "size": 5830,
+      "modified": "2026-03-22T12:52:28.646Z",
+      "tags": []
     },
     {
       "id": "猥琐可爱萌/03-神秘面罩.jpg",
       "name": "神秘面罩",
       "series": "猥琐可爱萌",
-      "tags": ["神秘", "蒙面", "匿名", "潜水"],
-      "emotion": "mysterious"
+      "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/03-神秘面罩.jpg",
+      "relativePath": "猥琐可爱萌/03-神秘面罩.jpg",
+      "size": 5415,
+      "modified": "2026-03-22T12:52:28.649Z",
+      "tags": []
     },
     {
       "id": "猥琐可爱萌/04-惊讶捂嘴.jpg",
       "name": "惊讶捂嘴",
       "series": "猥琐可爱萌",
-      "tags": ["惊讶", "偷笑", "八卦", "震惊"],
-      "emotion": "surprised"
+      "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/04-惊讶捂嘴.jpg",
+      "relativePath": "猥琐可爱萌/04-惊讶捂嘴.jpg",
+      "size": 5941,
+      "modified": "2026-03-22T12:52:28.652Z",
+      "tags": []
     },
     {
       "id": "猥琐可爱萌/05-害羞脸红.jpg",
       "name": "害羞脸红",
       "series": "猥琐可爱萌",
-      "tags": ["害羞", "可爱", "被撩", "不好意思"],
-      "emotion": "shy"
+      "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/05-害羞脸红.jpg",
+      "relativePath": "猥琐可爱萌/05-害羞脸红.jpg",
+      "size": 5891,
+      "modified": "2026-03-22T12:52:28.654Z",
+      "tags": []
     },
     {
       "id": "猥琐可爱萌/06-愤怒青筋.jpg",
       "name": "愤怒青筋",
       "series": "猥琐可爱萌",
-      "tags": ["愤怒", "不爽", "吐槽", "抱怨"],
-      "emotion": "angry"
+      "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/06-愤怒青筋.jpg",
+      "relativePath": "猥琐可爱萌/06-愤怒青筋.jpg",
+      "size": 6203,
+      "modified": "2026-03-22T12:52:28.656Z",
+      "tags": []
     },
     {
       "id": "猥琐可爱萌/07-撒娇噘嘴.jpg",
       "name": "撒娇噘嘴",
       "series": "猥琐可爱萌",
-      "tags": ["撒娇", "卖萌", "求安慰", "装委屈"],
-      "emotion": "cute"
+      "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/07-撒娇噘嘴.jpg",
+      "relativePath": "猥琐可爱萌/07-撒娇噘嘴.jpg",
+      "size": 5635,
+      "modified": "2026-03-22T12:52:28.659Z",
+      "tags": []
     },
     {
       "id": "猥琐可爱萌/08-调皮爱心.jpg",
       "name": "调皮爱心",
       "series": "猥琐可爱萌",
-      "tags": ["调皮", "爱你", "撩人", "示好"],
-      "emotion": "loving"
+      "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/08-调皮爱心.jpg",
+      "relativePath": "猥琐可爱萌/08-调皮爱心.jpg",
+      "size": 4439,
+      "modified": "2026-03-22T12:52:28.661Z",
+      "tags": []
     }
   ],
   "series": {
-    "猥琐可爱萌": {
-      "description": "爱课网下载的乖巧宝宝系列，猥琐中透着可爱",
-      "tags": ["猥琐", "可爱", "萌", "乖巧宝宝"],
-      "count": 8
-    }
+    "猥琐可爱萌": [
+      {
+        "id": "猥琐可爱萌/01-得意星星.jpg",
+        "name": "得意星星",
+        "series": "猥琐可爱萌",
+        "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/01-得意星星.jpg",
+        "relativePath": "猥琐可爱萌/01-得意星星.jpg",
+        "size": 4619,
+        "modified": "2026-03-22T12:52:28.644Z",
+        "tags": []
+      },
+      {
+        "id": "猥琐可爱萌/02-呆萌发芽.jpg",
+        "name": "呆萌发芽",
+        "series": "猥琐可爱萌",
+        "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/02-呆萌发芽.jpg",
+        "relativePath": "猥琐可爱萌/02-呆萌发芽.jpg",
+        "size": 5830,
+        "modified": "2026-03-22T12:52:28.646Z",
+        "tags": []
+      },
+      {
+        "id": "猥琐可爱萌/03-神秘面罩.jpg",
+        "name": "神秘面罩",
+        "series": "猥琐可爱萌",
+        "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/03-神秘面罩.jpg",
+        "relativePath": "猥琐可爱萌/03-神秘面罩.jpg",
+        "size": 5415,
+        "modified": "2026-03-22T12:52:28.649Z",
+        "tags": []
+      },
+      {
+        "id": "猥琐可爱萌/04-惊讶捂嘴.jpg",
+        "name": "惊讶捂嘴",
+        "series": "猥琐可爱萌",
+        "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/04-惊讶捂嘴.jpg",
+        "relativePath": "猥琐可爱萌/04-惊讶捂嘴.jpg",
+        "size": 5941,
+        "modified": "2026-03-22T12:52:28.652Z",
+        "tags": []
+      },
+      {
+        "id": "猥琐可爱萌/05-害羞脸红.jpg",
+        "name": "害羞脸红",
+        "series": "猥琐可爱萌",
+        "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/05-害羞脸红.jpg",
+        "relativePath": "猥琐可爱萌/05-害羞脸红.jpg",
+        "size": 5891,
+        "modified": "2026-03-22T12:52:28.654Z",
+        "tags": []
+      },
+      {
+        "id": "猥琐可爱萌/06-愤怒青筋.jpg",
+        "name": "愤怒青筋",
+        "series": "猥琐可爱萌",
+        "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/06-愤怒青筋.jpg",
+        "relativePath": "猥琐可爱萌/06-愤怒青筋.jpg",
+        "size": 6203,
+        "modified": "2026-03-22T12:52:28.656Z",
+        "tags": []
+      },
+      {
+        "id": "猥琐可爱萌/07-撒娇噘嘴.jpg",
+        "name": "撒娇噘嘴",
+        "series": "猥琐可爱萌",
+        "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/07-撒娇噘嘴.jpg",
+        "relativePath": "猥琐可爱萌/07-撒娇噘嘴.jpg",
+        "size": 5635,
+        "modified": "2026-03-22T12:52:28.659Z",
+        "tags": []
+      },
+      {
+        "id": "猥琐可爱萌/08-调皮爱心.jpg",
+        "name": "调皮爱心",
+        "series": "猥琐可爱萌",
+        "path": "/Users/mac/.sticker-cli/stickers/猥琐可爱萌/08-调皮爱心.jpg",
+        "relativePath": "猥琐可爱萌/08-调皮爱心.jpg",
+        "size": 4439,
+        "modified": "2026-03-22T12:52:28.661Z",
+        "tags": []
+      }
+    ]
   }
 }
