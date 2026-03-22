@@ -8,8 +8,15 @@ const chalk = require('chalk');
 const ora = require('ora');
 
 const program = new Command();
-const STICKER_DIR = path.join(require('os').homedir(), '.sticker-cli', 'stickers');
-const INDEX_FILE = path.join(require('os').homedir(), '.sticker-cli', 'index.json');
+
+// 优先使用 workspace 路径（OpenClaw 安全限制），否则用默认路径
+const WORKSPACE_STICKER_DIR = path.join(require('os').homedir(), '.openclaw', 'workspace', 'stickers');
+const DEFAULT_STICKER_DIR = path.join(require('os').homedir(), '.sticker-cli', 'stickers');
+const STICKER_DIR = fs.existsSync(WORKSPACE_STICKER_DIR) ? WORKSPACE_STICKER_DIR : DEFAULT_STICKER_DIR;
+
+const WORKSPACE_INDEX_FILE = path.join(require('os').homedir(), '.openclaw', 'workspace', 'stickers', 'index.json');
+const DEFAULT_INDEX_FILE = path.join(require('os').homedir(), '.sticker-cli', 'index.json');
+const INDEX_FILE = fs.existsSync(WORKSPACE_INDEX_FILE) ? WORKSPACE_INDEX_FILE : DEFAULT_INDEX_FILE;
 
 // 初始化索引
 function initIndex() {
